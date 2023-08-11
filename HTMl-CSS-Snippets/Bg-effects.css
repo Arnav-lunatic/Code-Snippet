@@ -1,0 +1,10 @@
+/* Blur Effect */
+.bg {
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+}
+
+/* Conic Background Texture */
+.background {
+    background-image: conic-gradient(black 20deg, transparent 120deg);
+}

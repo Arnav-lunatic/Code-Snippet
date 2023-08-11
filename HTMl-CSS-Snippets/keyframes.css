@@ -1,0 +1,15 @@
+dev{
+    animation-name: myframes;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes myframes{
+    from {
+        height: 200px;
+    }
+    to {
+        height: 500px;
+    }
+}
